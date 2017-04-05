@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=largura\ comprimento\ tam
+comment0.target=Terreno(double,\ double,\ int)
+comment1.params=
+comment1.target=double\ getlargura()
+comment2.params=
+comment2.target=double\ getcomprimento()
+comment3.params=
+comment3.target=int\ gettam()
+numComments=4

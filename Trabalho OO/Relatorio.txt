@@ -1,0 +1,3000 @@
+Relatorio das celula 
+
+Celula [0][0]
+coordenadas de largura :(0 , 0 )  ate (10 , 0)
+
+coordenadas de comprimento :(0 , 0)ate (0 , 10)
+
+Profundidade:452.0
+
+Pressao:45.2
+
+Petroleo:1572.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [0][1]
+coordenadas de largura :(0 , 10 )  ate (10 , 10)
+
+coordenadas de comprimento :(0 , 10)ate (0 , 20)
+
+Profundidade:517.0
+
+Pressao:51.7
+
+Petroleo:1073.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [0][2]
+coordenadas de largura :(0 , 20 )  ate (10 , 20)
+
+coordenadas de comprimento :(0 , 20)ate (0 , 30)
+
+Profundidade:972.0
+
+Pressao:97.2
+
+Petroleo:253.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [0][3]
+coordenadas de largura :(0 , 30 )  ate (10 , 30)
+
+coordenadas de comprimento :(0 , 30)ate (0 , 40)
+
+Profundidade:60.0
+
+Pressao:6.0
+
+Petroleo:2911.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [0][4]
+coordenadas de largura :(0 , 40 )  ate (10 , 40)
+
+coordenadas de comprimento :(0 , 40)ate (0 , 50)
+
+Profundidade:143.0
+
+Pressao:14.3
+
+Petroleo:5766.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [0][5]
+coordenadas de largura :(0 , 50 )  ate (10 , 50)
+
+coordenadas de comprimento :(0 , 50)ate (0 , 60)
+
+Profundidade:101.0
+
+Pressao:10.1
+
+Petroleo:3395.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [0][6]
+coordenadas de largura :(0 , 60 )  ate (10 , 60)
+
+coordenadas de comprimento :(0 , 60)ate (0 , 70)
+
+Profundidade:525.0
+
+Pressao:52.5
+
+Petroleo:1430.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [0][7]
+coordenadas de largura :(0 , 70 )  ate (10 , 70)
+
+coordenadas de comprimento :(0 , 70)ate (0 , 80)
+
+Profundidade:701.0
+
+Pressao:70.1
+
+Petroleo:9264.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [0][8]
+coordenadas de largura :(0 , 80 )  ate (10 , 80)
+
+coordenadas de comprimento :(0 , 80)ate (0 , 90)
+
+Profundidade:306.0
+
+Pressao:30.6
+
+Petroleo:5686.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [0][9]
+coordenadas de largura :(0 , 90 )  ate (10 , 90)
+
+coordenadas de comprimento :(0 , 90)ate (0 , 100)
+
+Profundidade:862.0
+
+Pressao:86.2
+
+Petroleo:6373.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [1][0]
+coordenadas de largura :(10 , 0 )  ate (20 , 0)
+
+coordenadas de comprimento :(10 , 0)ate (10 , 10)
+
+Profundidade:745.0
+
+Pressao:74.5
+
+Petroleo:1220.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [1][1]
+coordenadas de largura :(10 , 10 )  ate (20 , 10)
+
+coordenadas de comprimento :(10 , 10)ate (10 , 20)
+
+Profundidade:708.0
+
+Pressao:70.8
+
+Petroleo:6200.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [1][2]
+coordenadas de largura :(10 , 20 )  ate (20 , 20)
+
+coordenadas de comprimento :(10 , 20)ate (10 , 30)
+
+Profundidade:114.0
+
+Pressao:11.4
+
+Petroleo:5336.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [1][3]
+coordenadas de largura :(10 , 30 )  ate (20 , 30)
+
+coordenadas de comprimento :(10 , 30)ate (10 , 40)
+
+Profundidade:53.0
+
+Pressao:5.3
+
+Petroleo:2412.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [1][4]
+coordenadas de largura :(10 , 40 )  ate (20 , 40)
+
+coordenadas de comprimento :(10 , 40)ate (10 , 50)
+
+Profundidade:311.0
+
+Pressao:31.1
+
+Petroleo:2071.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [1][5]
+coordenadas de largura :(10 , 50 )  ate (20 , 50)
+
+coordenadas de comprimento :(10 , 50)ate (10 , 60)
+
+Profundidade:752.0
+
+Pressao:75.2
+
+Petroleo:6250.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [1][6]
+coordenadas de largura :(10 , 60 )  ate (20 , 60)
+
+coordenadas de comprimento :(10 , 60)ate (10 , 70)
+
+Profundidade:488.0
+
+Pressao:48.8
+
+Petroleo:6502.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [1][7]
+coordenadas de largura :(10 , 70 )  ate (20 , 70)
+
+coordenadas de comprimento :(10 , 70)ate (10 , 80)
+
+Profundidade:548.0
+
+Pressao:54.8
+
+Petroleo:9303.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [1][8]
+coordenadas de largura :(10 , 80 )  ate (20 , 80)
+
+coordenadas de comprimento :(10 , 80)ate (10 , 90)
+
+Profundidade:653.0
+
+Pressao:65.3
+
+Petroleo:6329.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [1][9]
+coordenadas de largura :(10 , 90 )  ate (20 , 90)
+
+coordenadas de comprimento :(10 , 90)ate (10 , 100)
+
+Profundidade:784.0
+
+Pressao:78.4
+
+Petroleo:4894.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [2][0]
+coordenadas de largura :(20 , 0 )  ate (30 , 0)
+
+coordenadas de comprimento :(20 , 0)ate (20 , 10)
+
+Profundidade:696.0
+
+Pressao:69.6
+
+Petroleo:993.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [2][1]
+coordenadas de largura :(20 , 10 )  ate (30 , 10)
+
+coordenadas de comprimento :(20 , 10)ate (20 , 20)
+
+Profundidade:167.0
+
+Pressao:16.7
+
+Petroleo:8253.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [2][2]
+coordenadas de largura :(20 , 20 )  ate (30 , 20)
+
+coordenadas de comprimento :(20 , 20)ate (20 , 30)
+
+Profundidade:733.0
+
+Pressao:73.3
+
+Petroleo:8378.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [2][3]
+coordenadas de largura :(20 , 30 )  ate (30 , 30)
+
+coordenadas de comprimento :(20 , 30)ate (20 , 40)
+
+Profundidade:900.0
+
+Pressao:90.0
+
+Petroleo:8255.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [2][4]
+coordenadas de largura :(20 , 40 )  ate (30 , 40)
+
+coordenadas de comprimento :(20 , 40)ate (20 , 50)
+
+Profundidade:595.0
+
+Pressao:59.5
+
+Petroleo:1146.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [2][5]
+coordenadas de largura :(20 , 50 )  ate (30 , 50)
+
+coordenadas de comprimento :(20 , 50)ate (20 , 60)
+
+Profundidade:712.0
+
+Pressao:71.2
+
+Petroleo:5724.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [2][6]
+coordenadas de largura :(20 , 60 )  ate (30 , 60)
+
+coordenadas de comprimento :(20 , 60)ate (20 , 70)
+
+Profundidade:814.0
+
+Pressao:81.4
+
+Petroleo:7195.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [2][7]
+coordenadas de largura :(20 , 70 )  ate (30 , 70)
+
+coordenadas de comprimento :(20 , 70)ate (20 , 80)
+
+Profundidade:195.0
+
+Pressao:19.5
+
+Petroleo:3722.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [2][8]
+coordenadas de largura :(20 , 80 )  ate (30 , 80)
+
+coordenadas de comprimento :(20 , 80)ate (20 , 90)
+
+Profundidade:536.0
+
+Pressao:53.6
+
+Petroleo:5415.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [2][9]
+coordenadas de largura :(20 , 90 )  ate (30 , 90)
+
+coordenadas de comprimento :(20 , 90)ate (20 , 100)
+
+Profundidade:730.0
+
+Pressao:73.0
+
+Petroleo:9316.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [3][0]
+coordenadas de largura :(30 , 0 )  ate (40 , 0)
+
+coordenadas de comprimento :(30 , 0)ate (30 , 10)
+
+Profundidade:671.0
+
+Pressao:67.1
+
+Petroleo:9294.0
+
+dureza:7.0
+
+Relatorio das celula 
+
+Celula [3][1]
+coordenadas de largura :(30 , 10 )  ate (40 , 10)
+
+coordenadas de comprimento :(30 , 10)ate (30 , 20)
+
+Profundidade:874.0
+
+Pressao:87.4
+
+Petroleo:1855.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [3][2]
+coordenadas de largura :(30 , 20 )  ate (40 , 20)
+
+coordenadas de comprimento :(30 , 20)ate (30 , 30)
+
+Profundidade:862.0
+
+Pressao:86.2
+
+Petroleo:6034.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [3][3]
+coordenadas de largura :(30 , 30 )  ate (40 , 30)
+
+coordenadas de comprimento :(30 , 30)ate (30 , 40)
+
+Profundidade:427.0
+
+Pressao:42.7
+
+Petroleo:4184.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [3][4]
+coordenadas de largura :(30 , 40 )  ate (40 , 40)
+
+coordenadas de comprimento :(30 , 40)ate (30 , 50)
+
+Profundidade:388.0
+
+Pressao:38.8
+
+Petroleo:8226.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [3][5]
+coordenadas de largura :(30 , 50 )  ate (40 , 50)
+
+coordenadas de comprimento :(30 , 50)ate (30 , 60)
+
+Profundidade:741.0
+
+Pressao:74.1
+
+Petroleo:7068.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [3][6]
+coordenadas de largura :(30 , 60 )  ate (40 , 60)
+
+coordenadas de comprimento :(30 , 60)ate (30 , 70)
+
+Profundidade:222.0
+
+Pressao:22.2
+
+Petroleo:7017.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [3][7]
+coordenadas de largura :(30 , 70 )  ate (40 , 70)
+
+coordenadas de comprimento :(30 , 70)ate (30 , 80)
+
+Profundidade:340.0
+
+Pressao:34.0
+
+Petroleo:5520.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [3][8]
+coordenadas de largura :(30 , 80 )  ate (40 , 80)
+
+coordenadas de comprimento :(30 , 80)ate (30 , 90)
+
+Profundidade:114.0
+
+Pressao:11.4
+
+Petroleo:2927.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [3][9]
+coordenadas de largura :(30 , 90 )  ate (40 , 90)
+
+coordenadas de comprimento :(30 , 90)ate (30 , 100)
+
+Profundidade:748.0
+
+Pressao:74.8
+
+Petroleo:2051.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [4][0]
+coordenadas de largura :(40 , 0 )  ate (50 , 0)
+
+coordenadas de comprimento :(40 , 0)ate (40 , 10)
+
+Profundidade:97.0
+
+Pressao:9.7
+
+Petroleo:695.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [4][1]
+coordenadas de largura :(40 , 10 )  ate (50 , 10)
+
+coordenadas de comprimento :(40 , 10)ate (40 , 20)
+
+Profundidade:970.0
+
+Pressao:97.0
+
+Petroleo:6356.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [4][2]
+coordenadas de largura :(40 , 20 )  ate (50 , 20)
+
+coordenadas de comprimento :(40 , 20)ate (40 , 30)
+
+Profundidade:902.0
+
+Pressao:90.2
+
+Petroleo:5247.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [4][3]
+coordenadas de largura :(40 , 30 )  ate (50 , 30)
+
+coordenadas de comprimento :(40 , 30)ate (40 , 40)
+
+Profundidade:651.0
+
+Pressao:65.1
+
+Petroleo:7902.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [4][4]
+coordenadas de largura :(40 , 40 )  ate (50 , 40)
+
+coordenadas de comprimento :(40 , 40)ate (40 , 50)
+
+Profundidade:382.0
+
+Pressao:38.2
+
+Petroleo:7196.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [4][5]
+coordenadas de largura :(40 , 50 )  ate (50 , 50)
+
+coordenadas de comprimento :(40 , 50)ate (40 , 60)
+
+Profundidade:439.0
+
+Pressao:43.9
+
+Petroleo:3708.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [4][6]
+coordenadas de largura :(40 , 60 )  ate (50 , 60)
+
+coordenadas de comprimento :(40 , 60)ate (40 , 70)
+
+Profundidade:861.0
+
+Pressao:86.1
+
+Petroleo:8298.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [4][7]
+coordenadas de largura :(40 , 70 )  ate (50 , 70)
+
+coordenadas de comprimento :(40 , 70)ate (40 , 80)
+
+Profundidade:900.0
+
+Pressao:90.0
+
+Petroleo:460.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [4][8]
+coordenadas de largura :(40 , 80 )  ate (50 , 80)
+
+coordenadas de comprimento :(40 , 80)ate (40 , 90)
+
+Profundidade:114.0
+
+Pressao:11.4
+
+Petroleo:9998.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [4][9]
+coordenadas de largura :(40 , 90 )  ate (50 , 90)
+
+coordenadas de comprimento :(40 , 90)ate (40 , 100)
+
+Profundidade:403.0
+
+Pressao:40.3
+
+Petroleo:2205.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [5][0]
+coordenadas de largura :(50 , 0 )  ate (60 , 0)
+
+coordenadas de comprimento :(50 , 0)ate (50 , 10)
+
+Profundidade:136.0
+
+Pressao:13.6
+
+Petroleo:2801.0
+
+dureza:7.0
+
+Relatorio das celula 
+
+Celula [5][1]
+coordenadas de largura :(50 , 10 )  ate (60 , 10)
+
+coordenadas de comprimento :(50 , 10)ate (50 , 20)
+
+Profundidade:201.0
+
+Pressao:20.1
+
+Petroleo:6026.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [5][2]
+coordenadas de largura :(50 , 20 )  ate (60 , 20)
+
+coordenadas de comprimento :(50 , 20)ate (50 , 30)
+
+Profundidade:888.0
+
+Pressao:88.8
+
+Petroleo:2126.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [5][3]
+coordenadas de largura :(50 , 30 )  ate (60 , 30)
+
+coordenadas de comprimento :(50 , 30)ate (50 , 40)
+
+Profundidade:77.0
+
+Pressao:7.7
+
+Petroleo:9609.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [5][4]
+coordenadas de largura :(50 , 40 )  ate (60 , 40)
+
+coordenadas de comprimento :(50 , 40)ate (50 , 50)
+
+Profundidade:337.0
+
+Pressao:33.7
+
+Petroleo:8676.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [5][5]
+coordenadas de largura :(50 , 50 )  ate (60 , 50)
+
+coordenadas de comprimento :(50 , 50)ate (50 , 60)
+
+Profundidade:344.0
+
+Pressao:34.4
+
+Petroleo:8990.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [5][6]
+coordenadas de largura :(50 , 60 )  ate (60 , 60)
+
+coordenadas de comprimento :(50 , 60)ate (50 , 70)
+
+Profundidade:951.0
+
+Pressao:95.1
+
+Petroleo:886.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [5][7]
+coordenadas de largura :(50 , 70 )  ate (60 , 70)
+
+coordenadas de comprimento :(50 , 70)ate (50 , 80)
+
+Profundidade:329.0
+
+Pressao:32.9
+
+Petroleo:7655.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [5][8]
+coordenadas de largura :(50 , 80 )  ate (60 , 80)
+
+coordenadas de comprimento :(50 , 80)ate (50 , 90)
+
+Profundidade:261.0
+
+Pressao:26.1
+
+Petroleo:4008.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [5][9]
+coordenadas de largura :(50 , 90 )  ate (60 , 90)
+
+coordenadas de comprimento :(50 , 90)ate (50 , 100)
+
+Profundidade:104.0
+
+Pressao:10.4
+
+Petroleo:5770.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [6][0]
+coordenadas de largura :(60 , 0 )  ate (70 , 0)
+
+coordenadas de comprimento :(60 , 0)ate (60 , 10)
+
+Profundidade:458.0
+
+Pressao:45.8
+
+Petroleo:9539.0
+
+dureza:7.0
+
+Relatorio das celula 
+
+Celula [6][1]
+coordenadas de largura :(60 , 10 )  ate (70 , 10)
+
+coordenadas de comprimento :(60 , 10)ate (60 , 20)
+
+Profundidade:191.0
+
+Pressao:19.1
+
+Petroleo:4629.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [6][2]
+coordenadas de largura :(60 , 20 )  ate (70 , 20)
+
+coordenadas de comprimento :(60 , 20)ate (60 , 30)
+
+Profundidade:930.0
+
+Pressao:93.0
+
+Petroleo:383.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [6][3]
+coordenadas de largura :(60 , 30 )  ate (70 , 30)
+
+coordenadas de comprimento :(60 , 30)ate (60 , 40)
+
+Profundidade:840.0
+
+Pressao:84.0
+
+Petroleo:6652.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [6][4]
+coordenadas de largura :(60 , 40 )  ate (70 , 40)
+
+coordenadas de comprimento :(60 , 40)ate (60 , 50)
+
+Profundidade:432.0
+
+Pressao:43.2
+
+Petroleo:1058.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [6][5]
+coordenadas de largura :(60 , 50 )  ate (70 , 50)
+
+coordenadas de comprimento :(60 , 50)ate (60 , 60)
+
+Profundidade:436.0
+
+Pressao:43.6
+
+Petroleo:5891.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [6][6]
+coordenadas de largura :(60 , 60 )  ate (70 , 60)
+
+coordenadas de comprimento :(60 , 60)ate (60 , 70)
+
+Profundidade:871.0
+
+Pressao:87.1
+
+Petroleo:167.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [6][7]
+coordenadas de largura :(60 , 70 )  ate (70 , 70)
+
+coordenadas de comprimento :(60 , 70)ate (60 , 80)
+
+Profundidade:880.0
+
+Pressao:88.0
+
+Petroleo:5163.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [6][8]
+coordenadas de largura :(60 , 80 )  ate (70 , 80)
+
+coordenadas de comprimento :(60 , 80)ate (60 , 90)
+
+Profundidade:92.0
+
+Pressao:9.2
+
+Petroleo:2211.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [6][9]
+coordenadas de largura :(60 , 90 )  ate (70 , 90)
+
+coordenadas de comprimento :(60 , 90)ate (60 , 100)
+
+Profundidade:11.0
+
+Pressao:1.1
+
+Petroleo:8426.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [7][0]
+coordenadas de largura :(70 , 0 )  ate (80 , 0)
+
+coordenadas de comprimento :(70 , 0)ate (70 , 10)
+
+Profundidade:822.0
+
+Pressao:82.2
+
+Petroleo:3698.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [7][1]
+coordenadas de largura :(70 , 10 )  ate (80 , 10)
+
+coordenadas de comprimento :(70 , 10)ate (70 , 20)
+
+Profundidade:607.0
+
+Pressao:60.7
+
+Petroleo:2142.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [7][2]
+coordenadas de largura :(70 , 20 )  ate (80 , 20)
+
+coordenadas de comprimento :(70 , 20)ate (70 , 30)
+
+Profundidade:300.0
+
+Pressao:30.0
+
+Petroleo:7260.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [7][3]
+coordenadas de largura :(70 , 30 )  ate (80 , 30)
+
+coordenadas de comprimento :(70 , 30)ate (70 , 40)
+
+Profundidade:140.0
+
+Pressao:14.0
+
+Petroleo:9510.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [7][4]
+coordenadas de largura :(70 , 40 )  ate (80 , 40)
+
+coordenadas de comprimento :(70 , 40)ate (70 , 50)
+
+Profundidade:140.0
+
+Pressao:14.0
+
+Petroleo:5379.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [7][5]
+coordenadas de largura :(70 , 50 )  ate (80 , 50)
+
+coordenadas de comprimento :(70 , 50)ate (70 , 60)
+
+Profundidade:477.0
+
+Pressao:47.7
+
+Petroleo:3475.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [7][6]
+coordenadas de largura :(70 , 60 )  ate (80 , 60)
+
+coordenadas de comprimento :(70 , 60)ate (70 , 70)
+
+Profundidade:629.0
+
+Pressao:62.9
+
+Petroleo:3214.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [7][7]
+coordenadas de largura :(70 , 70 )  ate (80 , 70)
+
+coordenadas de comprimento :(70 , 70)ate (70 , 80)
+
+Profundidade:213.0
+
+Pressao:21.3
+
+Petroleo:7086.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [7][8]
+coordenadas de largura :(70 , 80 )  ate (80 , 80)
+
+coordenadas de comprimento :(70 , 80)ate (70 , 90)
+
+Profundidade:885.0
+
+Pressao:88.5
+
+Petroleo:4108.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [7][9]
+coordenadas de largura :(70 , 90 )  ate (80 , 90)
+
+coordenadas de comprimento :(70 , 90)ate (70 , 100)
+
+Profundidade:587.0
+
+Pressao:58.7
+
+Petroleo:9290.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [8][0]
+coordenadas de largura :(80 , 0 )  ate (90 , 0)
+
+coordenadas de comprimento :(80 , 0)ate (80 , 10)
+
+Profundidade:368.0
+
+Pressao:36.8
+
+Petroleo:6873.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [8][1]
+coordenadas de largura :(80 , 10 )  ate (90 , 10)
+
+coordenadas de comprimento :(80 , 10)ate (80 , 20)
+
+Profundidade:932.0
+
+Pressao:93.2
+
+Petroleo:5810.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [8][2]
+coordenadas de largura :(80 , 20 )  ate (90 , 20)
+
+coordenadas de comprimento :(80 , 20)ate (80 , 30)
+
+Profundidade:513.0
+
+Pressao:51.3
+
+Petroleo:4935.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [8][3]
+coordenadas de largura :(80 , 30 )  ate (90 , 30)
+
+coordenadas de comprimento :(80 , 30)ate (80 , 40)
+
+Profundidade:352.0
+
+Pressao:35.2
+
+Petroleo:8076.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [8][4]
+coordenadas de largura :(80 , 40 )  ate (90 , 40)
+
+coordenadas de comprimento :(80 , 40)ate (80 , 50)
+
+Profundidade:334.0
+
+Pressao:33.4
+
+Petroleo:5702.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [8][5]
+coordenadas de largura :(80 , 50 )  ate (90 , 50)
+
+coordenadas de comprimento :(80 , 50)ate (80 , 60)
+
+Profundidade:687.0
+
+Pressao:68.7
+
+Petroleo:2776.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [8][6]
+coordenadas de largura :(80 , 60 )  ate (90 , 60)
+
+coordenadas de comprimento :(80 , 60)ate (80 , 70)
+
+Profundidade:221.0
+
+Pressao:22.1
+
+Petroleo:3511.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [8][7]
+coordenadas de largura :(80 , 70 )  ate (90 , 70)
+
+coordenadas de comprimento :(80 , 70)ate (80 , 80)
+
+Profundidade:541.0
+
+Pressao:54.1
+
+Petroleo:7168.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [8][8]
+coordenadas de largura :(80 , 80 )  ate (90 , 80)
+
+coordenadas de comprimento :(80 , 80)ate (80 , 90)
+
+Profundidade:473.0
+
+Pressao:47.3
+
+Petroleo:6982.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [8][9]
+coordenadas de largura :(80 , 90 )  ate (90 , 90)
+
+coordenadas de comprimento :(80 , 90)ate (80 , 100)
+
+Profundidade:362.0
+
+Pressao:36.2
+
+Petroleo:1558.0
+
+dureza:7.0
+
+Relatorio das celula 
+
+Celula [9][0]
+coordenadas de largura :(90 , 0 )  ate (100 , 0)
+
+coordenadas de comprimento :(90 , 0)ate (90 , 10)
+
+Profundidade:474.0
+
+Pressao:47.4
+
+Petroleo:7923.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [9][1]
+coordenadas de largura :(90 , 10 )  ate (100 , 10)
+
+coordenadas de comprimento :(90 , 10)ate (90 , 20)
+
+Profundidade:918.0
+
+Pressao:91.8
+
+Petroleo:6144.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [9][2]
+coordenadas de largura :(90 , 20 )  ate (100 , 20)
+
+coordenadas de comprimento :(90 , 20)ate (90 , 30)
+
+Profundidade:585.0
+
+Pressao:58.5
+
+Petroleo:9858.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [9][3]
+coordenadas de largura :(90 , 30 )  ate (100 , 30)
+
+coordenadas de comprimento :(90 , 30)ate (90 , 40)
+
+Profundidade:951.0
+
+Pressao:95.1
+
+Petroleo:7922.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [9][4]
+coordenadas de largura :(90 , 40 )  ate (100 , 40)
+
+coordenadas de comprimento :(90 , 40)ate (90 , 50)
+
+Profundidade:998.0
+
+Pressao:99.8
+
+Petroleo:2555.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [9][5]
+coordenadas de largura :(90 , 50 )  ate (100 , 50)
+
+coordenadas de comprimento :(90 , 50)ate (90 , 60)
+
+Profundidade:318.0
+
+Pressao:31.8
+
+Petroleo:4459.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [9][6]
+coordenadas de largura :(90 , 60 )  ate (100 , 60)
+
+coordenadas de comprimento :(90 , 60)ate (90 , 70)
+
+Profundidade:224.0
+
+Pressao:22.4
+
+Petroleo:8888.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [9][7]
+coordenadas de largura :(90 , 70 )  ate (100 , 70)
+
+coordenadas de comprimento :(90 , 70)ate (90 , 80)
+
+Profundidade:975.0
+
+Pressao:97.5
+
+Petroleo:8445.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [9][8]
+coordenadas de largura :(90 , 80 )  ate (100 , 80)
+
+coordenadas de comprimento :(90 , 80)ate (90 , 90)
+
+Profundidade:405.0
+
+Pressao:40.5
+
+Petroleo:6855.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [9][9]
+coordenadas de largura :(90 , 90 )  ate (100 , 90)
+
+coordenadas de comprimento :(90 , 90)ate (90 , 100)
+
+Profundidade:543.0
+
+Pressao:54.3
+
+Petroleo:9204.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [0][0]
+coordenadas de largura :(0 , 0 )  ate (10 , 0)
+
+coordenadas de comprimento :(0 , 0)ate (0 , 10)
+
+Profundidade:173.0
+
+Pressao:17.3
+
+Petroleo:8306.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [0][1]
+coordenadas de largura :(0 , 10 )  ate (10 , 10)
+
+coordenadas de comprimento :(0 , 10)ate (0 , 20)
+
+Profundidade:554.0
+
+Pressao:55.4
+
+Petroleo:7024.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [0][2]
+coordenadas de largura :(0 , 20 )  ate (10 , 20)
+
+coordenadas de comprimento :(0 , 20)ate (0 , 30)
+
+Profundidade:233.0
+
+Pressao:23.3
+
+Petroleo:348.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [0][3]
+coordenadas de largura :(0 , 30 )  ate (10 , 30)
+
+coordenadas de comprimento :(0 , 30)ate (0 , 40)
+
+Profundidade:139.0
+
+Pressao:13.9
+
+Petroleo:4071.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [0][4]
+coordenadas de largura :(0 , 40 )  ate (10 , 40)
+
+coordenadas de comprimento :(0 , 40)ate (0 , 50)
+
+Profundidade:716.0
+
+Pressao:71.6
+
+Petroleo:1983.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [0][5]
+coordenadas de largura :(0 , 50 )  ate (10 , 50)
+
+coordenadas de comprimento :(0 , 50)ate (0 , 60)
+
+Profundidade:831.0
+
+Pressao:83.1
+
+Petroleo:3634.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [0][6]
+coordenadas de largura :(0 , 60 )  ate (10 , 60)
+
+coordenadas de comprimento :(0 , 60)ate (0 , 70)
+
+Profundidade:269.0
+
+Pressao:26.9
+
+Petroleo:2300.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [0][7]
+coordenadas de largura :(0 , 70 )  ate (10 , 70)
+
+coordenadas de comprimento :(0 , 70)ate (0 , 80)
+
+Profundidade:284.0
+
+Pressao:28.4
+
+Petroleo:3026.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [0][8]
+coordenadas de largura :(0 , 80 )  ate (10 , 80)
+
+coordenadas de comprimento :(0 , 80)ate (0 , 90)
+
+Profundidade:136.0
+
+Pressao:13.6
+
+Petroleo:6168.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [0][9]
+coordenadas de largura :(0 , 90 )  ate (10 , 90)
+
+coordenadas de comprimento :(0 , 90)ate (0 , 100)
+
+Profundidade:760.0
+
+Pressao:76.0
+
+Petroleo:8451.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [1][0]
+coordenadas de largura :(10 , 0 )  ate (20 , 0)
+
+coordenadas de comprimento :(10 , 0)ate (10 , 10)
+
+Profundidade:662.0
+
+Pressao:66.2
+
+Petroleo:5392.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [1][1]
+coordenadas de largura :(10 , 10 )  ate (20 , 10)
+
+coordenadas de comprimento :(10 , 10)ate (10 , 20)
+
+Profundidade:273.0
+
+Pressao:27.3
+
+Petroleo:4416.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [1][2]
+coordenadas de largura :(10 , 20 )  ate (20 , 20)
+
+coordenadas de comprimento :(10 , 20)ate (10 , 30)
+
+Profundidade:754.0
+
+Pressao:75.4
+
+Petroleo:1817.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [1][3]
+coordenadas de largura :(10 , 30 )  ate (20 , 30)
+
+coordenadas de comprimento :(10 , 30)ate (10 , 40)
+
+Profundidade:778.0
+
+Pressao:77.8
+
+Petroleo:2074.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [1][4]
+coordenadas de largura :(10 , 40 )  ate (20 , 40)
+
+coordenadas de comprimento :(10 , 40)ate (10 , 50)
+
+Profundidade:620.0
+
+Pressao:62.0
+
+Petroleo:7225.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [1][5]
+coordenadas de largura :(10 , 50 )  ate (20 , 50)
+
+coordenadas de comprimento :(10 , 50)ate (10 , 60)
+
+Profundidade:168.0
+
+Pressao:16.8
+
+Petroleo:6813.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [1][6]
+coordenadas de largura :(10 , 60 )  ate (20 , 60)
+
+coordenadas de comprimento :(10 , 60)ate (10 , 70)
+
+Profundidade:115.0
+
+Pressao:11.5
+
+Petroleo:4250.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [1][7]
+coordenadas de largura :(10 , 70 )  ate (20 , 70)
+
+coordenadas de comprimento :(10 , 70)ate (10 , 80)
+
+Profundidade:327.0
+
+Pressao:32.7
+
+Petroleo:7153.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [1][8]
+coordenadas de largura :(10 , 80 )  ate (20 , 80)
+
+coordenadas de comprimento :(10 , 80)ate (10 , 90)
+
+Profundidade:818.0
+
+Pressao:81.8
+
+Petroleo:1033.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [1][9]
+coordenadas de largura :(10 , 90 )  ate (20 , 90)
+
+coordenadas de comprimento :(10 , 90)ate (10 , 100)
+
+Profundidade:416.0
+
+Pressao:41.6
+
+Petroleo:6872.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [2][0]
+coordenadas de largura :(20 , 0 )  ate (30 , 0)
+
+coordenadas de comprimento :(20 , 0)ate (20 , 10)
+
+Profundidade:392.0
+
+Pressao:39.2
+
+Petroleo:624.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [2][1]
+coordenadas de largura :(20 , 10 )  ate (30 , 10)
+
+coordenadas de comprimento :(20 , 10)ate (20 , 20)
+
+Profundidade:316.0
+
+Pressao:31.6
+
+Petroleo:2407.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [2][2]
+coordenadas de largura :(20 , 20 )  ate (30 , 20)
+
+coordenadas de comprimento :(20 , 20)ate (20 , 30)
+
+Profundidade:559.0
+
+Pressao:55.9
+
+Petroleo:73.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [2][3]
+coordenadas de largura :(20 , 30 )  ate (30 , 30)
+
+coordenadas de comprimento :(20 , 30)ate (20 , 40)
+
+Profundidade:7.0
+
+Pressao:0.7
+
+Petroleo:7223.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [2][4]
+coordenadas de largura :(20 , 40 )  ate (30 , 40)
+
+coordenadas de comprimento :(20 , 40)ate (20 , 50)
+
+Profundidade:395.0
+
+Pressao:39.5
+
+Petroleo:6085.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [2][5]
+coordenadas de largura :(20 , 50 )  ate (30 , 50)
+
+coordenadas de comprimento :(20 , 50)ate (20 , 60)
+
+Profundidade:669.0
+
+Pressao:66.9
+
+Petroleo:4465.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [2][6]
+coordenadas de largura :(20 , 60 )  ate (30 , 60)
+
+coordenadas de comprimento :(20 , 60)ate (20 , 70)
+
+Profundidade:455.0
+
+Pressao:45.5
+
+Petroleo:4232.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [2][7]
+coordenadas de largura :(20 , 70 )  ate (30 , 70)
+
+coordenadas de comprimento :(20 , 70)ate (20 , 80)
+
+Profundidade:328.0
+
+Pressao:32.8
+
+Petroleo:6831.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [2][8]
+coordenadas de largura :(20 , 80 )  ate (30 , 80)
+
+coordenadas de comprimento :(20 , 80)ate (20 , 90)
+
+Profundidade:523.0
+
+Pressao:52.3
+
+Petroleo:3714.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [2][9]
+coordenadas de largura :(20 , 90 )  ate (30 , 90)
+
+coordenadas de comprimento :(20 , 90)ate (20 , 100)
+
+Profundidade:954.0
+
+Pressao:95.4
+
+Petroleo:4561.0
+
+dureza:7.0
+
+Relatorio das celula 
+
+Celula [3][0]
+coordenadas de largura :(30 , 0 )  ate (40 , 0)
+
+coordenadas de comprimento :(30 , 0)ate (30 , 10)
+
+Profundidade:827.0
+
+Pressao:82.7
+
+Petroleo:9280.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [3][1]
+coordenadas de largura :(30 , 10 )  ate (40 , 10)
+
+coordenadas de comprimento :(30 , 10)ate (30 , 20)
+
+Profundidade:43.0
+
+Pressao:4.3
+
+Petroleo:5633.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [3][2]
+coordenadas de largura :(30 , 20 )  ate (40 , 20)
+
+coordenadas de comprimento :(30 , 20)ate (30 , 30)
+
+Profundidade:131.0
+
+Pressao:13.1
+
+Petroleo:9929.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [3][3]
+coordenadas de largura :(30 , 30 )  ate (40 , 30)
+
+coordenadas de comprimento :(30 , 30)ate (30 , 40)
+
+Profundidade:11.0
+
+Pressao:1.1
+
+Petroleo:3967.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [3][4]
+coordenadas de largura :(30 , 40 )  ate (40 , 40)
+
+coordenadas de comprimento :(30 , 40)ate (30 , 50)
+
+Profundidade:468.0
+
+Pressao:46.8
+
+Petroleo:5868.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [3][5]
+coordenadas de largura :(30 , 50 )  ate (40 , 50)
+
+coordenadas de comprimento :(30 , 50)ate (30 , 60)
+
+Profundidade:862.0
+
+Pressao:86.2
+
+Petroleo:5189.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [3][6]
+coordenadas de largura :(30 , 60 )  ate (40 , 60)
+
+coordenadas de comprimento :(30 , 60)ate (30 , 70)
+
+Profundidade:955.0
+
+Pressao:95.5
+
+Petroleo:5980.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [3][7]
+coordenadas de largura :(30 , 70 )  ate (40 , 70)
+
+coordenadas de comprimento :(30 , 70)ate (30 , 80)
+
+Profundidade:53.0
+
+Pressao:5.3
+
+Petroleo:7799.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [3][8]
+coordenadas de largura :(30 , 80 )  ate (40 , 80)
+
+coordenadas de comprimento :(30 , 80)ate (30 , 90)
+
+Profundidade:912.0
+
+Pressao:91.2
+
+Petroleo:1491.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [3][9]
+coordenadas de largura :(30 , 90 )  ate (40 , 90)
+
+coordenadas de comprimento :(30 , 90)ate (30 , 100)
+
+Profundidade:768.0
+
+Pressao:76.8
+
+Petroleo:1900.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [4][0]
+coordenadas de largura :(40 , 0 )  ate (50 , 0)
+
+coordenadas de comprimento :(40 , 0)ate (40 , 10)
+
+Profundidade:29.0
+
+Pressao:2.9
+
+Petroleo:588.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [4][1]
+coordenadas de largura :(40 , 10 )  ate (50 , 10)
+
+coordenadas de comprimento :(40 , 10)ate (40 , 20)
+
+Profundidade:954.0
+
+Pressao:95.4
+
+Petroleo:6822.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [4][2]
+coordenadas de largura :(40 , 20 )  ate (50 , 20)
+
+coordenadas de comprimento :(40 , 20)ate (40 , 30)
+
+Profundidade:453.0
+
+Pressao:45.3
+
+Petroleo:4037.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [4][3]
+coordenadas de largura :(40 , 30 )  ate (50 , 30)
+
+coordenadas de comprimento :(40 , 30)ate (40 , 40)
+
+Profundidade:35.0
+
+Pressao:3.5
+
+Petroleo:8710.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [4][4]
+coordenadas de largura :(40 , 40 )  ate (50 , 40)
+
+coordenadas de comprimento :(40 , 40)ate (40 , 50)
+
+Profundidade:465.0
+
+Pressao:46.5
+
+Petroleo:6387.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [4][5]
+coordenadas de largura :(40 , 50 )  ate (50 , 50)
+
+coordenadas de comprimento :(40 , 50)ate (40 , 60)
+
+Profundidade:421.0
+
+Pressao:42.1
+
+Petroleo:9772.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [4][6]
+coordenadas de largura :(40 , 60 )  ate (50 , 60)
+
+coordenadas de comprimento :(40 , 60)ate (40 , 70)
+
+Profundidade:391.0
+
+Pressao:39.1
+
+Petroleo:5677.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [4][7]
+coordenadas de largura :(40 , 70 )  ate (50 , 70)
+
+coordenadas de comprimento :(40 , 70)ate (40 , 80)
+
+Profundidade:977.0
+
+Pressao:97.7
+
+Petroleo:5221.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [4][8]
+coordenadas de largura :(40 , 80 )  ate (50 , 80)
+
+coordenadas de comprimento :(40 , 80)ate (40 , 90)
+
+Profundidade:706.0
+
+Pressao:70.6
+
+Petroleo:2094.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [4][9]
+coordenadas de largura :(40 , 90 )  ate (50 , 90)
+
+coordenadas de comprimento :(40 , 90)ate (40 , 100)
+
+Profundidade:494.0
+
+Pressao:49.4
+
+Petroleo:3807.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [5][0]
+coordenadas de largura :(50 , 0 )  ate (60 , 0)
+
+coordenadas de comprimento :(50 , 0)ate (50 , 10)
+
+Profundidade:278.0
+
+Pressao:27.8
+
+Petroleo:3130.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [5][1]
+coordenadas de largura :(50 , 10 )  ate (60 , 10)
+
+coordenadas de comprimento :(50 , 10)ate (50 , 20)
+
+Profundidade:419.0
+
+Pressao:41.9
+
+Petroleo:2294.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [5][2]
+coordenadas de largura :(50 , 20 )  ate (60 , 20)
+
+coordenadas de comprimento :(50 , 20)ate (50 , 30)
+
+Profundidade:681.0
+
+Pressao:68.1
+
+Petroleo:6212.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [5][3]
+coordenadas de largura :(50 , 30 )  ate (60 , 30)
+
+coordenadas de comprimento :(50 , 30)ate (50 , 40)
+
+Profundidade:1.0
+
+Pressao:0.1
+
+Petroleo:285.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [5][4]
+coordenadas de largura :(50 , 40 )  ate (60 , 40)
+
+coordenadas de comprimento :(50 , 40)ate (50 , 50)
+
+Profundidade:909.0
+
+Pressao:90.9
+
+Petroleo:8093.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [5][5]
+coordenadas de largura :(50 , 50 )  ate (60 , 50)
+
+coordenadas de comprimento :(50 , 50)ate (50 , 60)
+
+Profundidade:401.0
+
+Pressao:40.1
+
+Petroleo:904.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [5][6]
+coordenadas de largura :(50 , 60 )  ate (60 , 60)
+
+coordenadas de comprimento :(50 , 60)ate (50 , 70)
+
+Profundidade:427.0
+
+Pressao:42.7
+
+Petroleo:4288.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [5][7]
+coordenadas de largura :(50 , 70 )  ate (60 , 70)
+
+coordenadas de comprimento :(50 , 70)ate (50 , 80)
+
+Profundidade:935.0
+
+Pressao:93.5
+
+Petroleo:3103.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [5][8]
+coordenadas de largura :(50 , 80 )  ate (60 , 80)
+
+coordenadas de comprimento :(50 , 80)ate (50 , 90)
+
+Profundidade:660.0
+
+Pressao:66.0
+
+Petroleo:8832.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [5][9]
+coordenadas de largura :(50 , 90 )  ate (60 , 90)
+
+coordenadas de comprimento :(50 , 90)ate (50 , 100)
+
+Profundidade:744.0
+
+Pressao:74.4
+
+Petroleo:1178.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [6][0]
+coordenadas de largura :(60 , 0 )  ate (70 , 0)
+
+coordenadas de comprimento :(60 , 0)ate (60 , 10)
+
+Profundidade:660.0
+
+Pressao:66.0
+
+Petroleo:302.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [6][1]
+coordenadas de largura :(60 , 10 )  ate (70 , 10)
+
+coordenadas de comprimento :(60 , 10)ate (60 , 20)
+
+Profundidade:965.0
+
+Pressao:96.5
+
+Petroleo:4522.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [6][2]
+coordenadas de largura :(60 , 20 )  ate (70 , 20)
+
+coordenadas de comprimento :(60 , 20)ate (60 , 30)
+
+Profundidade:367.0
+
+Pressao:36.7
+
+Petroleo:8236.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [6][3]
+coordenadas de largura :(60 , 30 )  ate (70 , 30)
+
+coordenadas de comprimento :(60 , 30)ate (60 , 40)
+
+Profundidade:210.0
+
+Pressao:21.0
+
+Petroleo:2919.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [6][4]
+coordenadas de largura :(60 , 40 )  ate (70 , 40)
+
+coordenadas de comprimento :(60 , 40)ate (60 , 50)
+
+Profundidade:72.0
+
+Pressao:7.2
+
+Petroleo:6726.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [6][5]
+coordenadas de largura :(60 , 50 )  ate (70 , 50)
+
+coordenadas de comprimento :(60 , 50)ate (60 , 60)
+
+Profundidade:430.0
+
+Pressao:43.0
+
+Petroleo:2022.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [6][6]
+coordenadas de largura :(60 , 60 )  ate (70 , 60)
+
+coordenadas de comprimento :(60 , 60)ate (60 , 70)
+
+Profundidade:223.0
+
+Pressao:22.3
+
+Petroleo:269.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [6][7]
+coordenadas de largura :(60 , 70 )  ate (70 , 70)
+
+coordenadas de comprimento :(60 , 70)ate (60 , 80)
+
+Profundidade:151.0
+
+Pressao:15.1
+
+Petroleo:3375.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [6][8]
+coordenadas de largura :(60 , 80 )  ate (70 , 80)
+
+coordenadas de comprimento :(60 , 80)ate (60 , 90)
+
+Profundidade:666.0
+
+Pressao:66.6
+
+Petroleo:6694.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [6][9]
+coordenadas de largura :(60 , 90 )  ate (70 , 90)
+
+coordenadas de comprimento :(60 , 90)ate (60 , 100)
+
+Profundidade:141.0
+
+Pressao:14.1
+
+Petroleo:6942.0
+
+dureza:7.0
+
+Relatorio das celula 
+
+Celula [7][0]
+coordenadas de largura :(70 , 0 )  ate (80 , 0)
+
+coordenadas de comprimento :(70 , 0)ate (70 , 10)
+
+Profundidade:14.0
+
+Pressao:1.4
+
+Petroleo:5656.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [7][1]
+coordenadas de largura :(70 , 10 )  ate (80 , 10)
+
+coordenadas de comprimento :(70 , 10)ate (70 , 20)
+
+Profundidade:36.0
+
+Pressao:3.6
+
+Petroleo:9902.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [7][2]
+coordenadas de largura :(70 , 20 )  ate (80 , 20)
+
+coordenadas de comprimento :(70 , 20)ate (70 , 30)
+
+Profundidade:4.0
+
+Pressao:0.4
+
+Petroleo:9746.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [7][3]
+coordenadas de largura :(70 , 30 )  ate (80 , 30)
+
+coordenadas de comprimento :(70 , 30)ate (70 , 40)
+
+Profundidade:682.0
+
+Pressao:68.2
+
+Petroleo:4788.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [7][4]
+coordenadas de largura :(70 , 40 )  ate (80 , 40)
+
+coordenadas de comprimento :(70 , 40)ate (70 , 50)
+
+Profundidade:168.0
+
+Pressao:16.8
+
+Petroleo:3482.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [7][5]
+coordenadas de largura :(70 , 50 )  ate (80 , 50)
+
+coordenadas de comprimento :(70 , 50)ate (70 , 60)
+
+Profundidade:795.0
+
+Pressao:79.5
+
+Petroleo:8015.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [7][6]
+coordenadas de largura :(70 , 60 )  ate (80 , 60)
+
+coordenadas de comprimento :(70 , 60)ate (70 , 70)
+
+Profundidade:755.0
+
+Pressao:75.5
+
+Petroleo:1411.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [7][7]
+coordenadas de largura :(70 , 70 )  ate (80 , 70)
+
+coordenadas de comprimento :(70 , 70)ate (70 , 80)
+
+Profundidade:613.0
+
+Pressao:61.3
+
+Petroleo:5435.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [7][8]
+coordenadas de largura :(70 , 80 )  ate (80 , 80)
+
+coordenadas de comprimento :(70 , 80)ate (70 , 90)
+
+Profundidade:207.0
+
+Pressao:20.7
+
+Petroleo:6679.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [7][9]
+coordenadas de largura :(70 , 90 )  ate (80 , 90)
+
+coordenadas de comprimento :(70 , 90)ate (70 , 100)
+
+Profundidade:630.0
+
+Pressao:63.0
+
+Petroleo:2629.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [8][0]
+coordenadas de largura :(80 , 0 )  ate (90 , 0)
+
+coordenadas de comprimento :(80 , 0)ate (80 , 10)
+
+Profundidade:20.0
+
+Pressao:2.0
+
+Petroleo:9891.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [8][1]
+coordenadas de largura :(80 , 10 )  ate (90 , 10)
+
+coordenadas de comprimento :(80 , 10)ate (80 , 20)
+
+Profundidade:76.0
+
+Pressao:7.6
+
+Petroleo:6428.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [8][2]
+coordenadas de largura :(80 , 20 )  ate (90 , 20)
+
+coordenadas de comprimento :(80 , 20)ate (80 , 30)
+
+Profundidade:898.0
+
+Pressao:89.8
+
+Petroleo:7710.0
+
+dureza:5.0
+
+Relatorio das celula 
+
+Celula [8][3]
+coordenadas de largura :(80 , 30 )  ate (90 , 30)
+
+coordenadas de comprimento :(80 , 30)ate (80 , 40)
+
+Profundidade:172.0
+
+Pressao:17.2
+
+Petroleo:6094.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [8][4]
+coordenadas de largura :(80 , 40 )  ate (90 , 40)
+
+coordenadas de comprimento :(80 , 40)ate (80 , 50)
+
+Profundidade:978.0
+
+Pressao:97.8
+
+Petroleo:9174.0
+
+dureza:9.0
+
+Relatorio das celula 
+
+Celula [8][5]
+coordenadas de largura :(80 , 50 )  ate (90 , 50)
+
+coordenadas de comprimento :(80 , 50)ate (80 , 60)
+
+Profundidade:722.0
+
+Pressao:72.2
+
+Petroleo:6155.0
+
+dureza:8.0
+
+Relatorio das celula 
+
+Celula [8][6]
+coordenadas de largura :(80 , 60 )  ate (90 , 60)
+
+coordenadas de comprimento :(80 , 60)ate (80 , 70)
+
+Profundidade:192.0
+
+Pressao:19.2
+
+Petroleo:3060.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [8][7]
+coordenadas de largura :(80 , 70 )  ate (90 , 70)
+
+coordenadas de comprimento :(80 , 70)ate (80 , 80)
+
+Profundidade:196.0
+
+Pressao:19.6
+
+Petroleo:634.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [8][8]
+coordenadas de largura :(80 , 80 )  ate (90 , 80)
+
+coordenadas de comprimento :(80 , 80)ate (80 , 90)
+
+Profundidade:518.0
+
+Pressao:51.8
+
+Petroleo:1130.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [8][9]
+coordenadas de largura :(80 , 90 )  ate (90 , 90)
+
+coordenadas de comprimento :(80 , 90)ate (80 , 100)
+
+Profundidade:276.0
+
+Pressao:27.6
+
+Petroleo:1333.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [9][0]
+coordenadas de largura :(90 , 0 )  ate (100 , 0)
+
+coordenadas de comprimento :(90 , 0)ate (90 , 10)
+
+Profundidade:789.0
+
+Pressao:78.9
+
+Petroleo:7331.0
+
+dureza:6.0
+
+Relatorio das celula 
+
+Celula [9][1]
+coordenadas de largura :(90 , 10 )  ate (100 , 10)
+
+coordenadas de comprimento :(90 , 10)ate (90 , 20)
+
+Profundidade:736.0
+
+Pressao:73.6
+
+Petroleo:1437.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [9][2]
+coordenadas de largura :(90 , 20 )  ate (100 , 20)
+
+coordenadas de comprimento :(90 , 20)ate (90 , 30)
+
+Profundidade:411.0
+
+Pressao:41.1
+
+Petroleo:2024.0
+
+dureza:10.0
+
+Relatorio das celula 
+
+Celula [9][3]
+coordenadas de largura :(90 , 30 )  ate (100 , 30)
+
+coordenadas de comprimento :(90 , 30)ate (90 , 40)
+
+Profundidade:633.0
+
+Pressao:63.3
+
+Petroleo:6727.0
+
+dureza:4.0
+
+Relatorio das celula 
+
+Celula [9][4]
+coordenadas de largura :(90 , 40 )  ate (100 , 40)
+
+coordenadas de comprimento :(90 , 40)ate (90 , 50)
+
+Profundidade:522.0
+
+Pressao:52.2
+
+Petroleo:4877.0
+
+dureza:2.0
+
+Relatorio das celula 
+
+Celula [9][5]
+coordenadas de largura :(90 , 50 )  ate (100 , 50)
+
+coordenadas de comprimento :(90 , 50)ate (90 , 60)
+
+Profundidade:62.0
+
+Pressao:6.2
+
+Petroleo:8913.0
+
+dureza:0.0
+
+Relatorio das celula 
+
+Celula [9][6]
+coordenadas de largura :(90 , 60 )  ate (100 , 60)
+
+coordenadas de comprimento :(90 , 60)ate (90 , 70)
+
+Profundidade:120.0
+
+Pressao:12.0
+
+Petroleo:3683.0
+
+dureza:3.0
+
+Relatorio das celula 
+
+Celula [9][7]
+coordenadas de largura :(90 , 70 )  ate (100 , 70)
+
+coordenadas de comprimento :(90 , 70)ate (90 , 80)
+
+Profundidade:464.0
+
+Pressao:46.4
+
+Petroleo:6352.0
+
+dureza:1.0
+
+Relatorio das celula 
+
+Celula [9][8]
+coordenadas de largura :(90 , 80 )  ate (100 , 80)
+
+coordenadas de comprimento :(90 , 80)ate (90 , 90)
+
+Profundidade:913.0
+
+Pressao:91.3
+
+Petroleo:4467.0
+
+dureza:7.0
+
+Relatorio das celula 
+
+Celula [9][9]
+coordenadas de largura :(90 , 90 )  ate (100 , 90)
+
+coordenadas de comprimento :(90 , 90)ate (90 , 100)
+
+Profundidade:451.0
+
+Pressao:45.1
+
+Petroleo:827.0
+
+dureza:8.0
+

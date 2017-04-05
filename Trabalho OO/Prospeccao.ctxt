@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=codigo\ identificador
+comment0.target=Prospeccao(int,\ int)
+comment1.params=petroleo
+comment1.target=void\ recolhePetroleo(double)
+numComments=2
